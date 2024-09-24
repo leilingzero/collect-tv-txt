@@ -16,5 +16,4 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/CCSH/collect-tv-txt
 ```
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
 ```
-直播源（txt）短链（Backup）： https://tinyurl.com/tv-live-txt
 
